@@ -1,2 +1,4 @@
 # tsStudy
-学习ts
+npm install
+
+npm start
